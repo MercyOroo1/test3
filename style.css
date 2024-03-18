@@ -1,0 +1,46 @@
+.header {
+    color:purple;
+}
+.header-2 {
+    background-color:plum;
+    padding: 40px;
+}
+h2 {
+    font-size: smaller ;
+}
+#intro {
+    font-size: larger;
+    font-weight: bolder;
+    }
+ #bg {
+    font-size: large;
+    font-weight: bolder;
+ }   
+ #ach {
+    font-size: large;
+    font-weight: bolder;
+
+ }
+ h3 {
+    text-transform: capitalize;
+    
+ }
+ .section{
+    width: 1000px;
+    background-color: plum;
+    margin:auto
+    
+ }
+ body {
+   background-image: url(./Assets/background.jpeg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-image: fixed;
+   filter: blur();
+ }
+ .sect div {
+   float:left;
+   background-color: #fec47f;
+   text-align: center ;
+   width: 50%;
+ }
